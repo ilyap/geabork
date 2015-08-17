@@ -1,0 +1,4 @@
+# Matlab & Octave temporary files.
+octave-core
+*.asv
+*.m~
